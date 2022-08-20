@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { Booking } from '../booking';
 import { BookingService } from '../booking.service';
 
-
 @Component({
   selector: 'app-bookings',
   templateUrl: './bookings.component.html',
